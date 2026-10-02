@@ -8,7 +8,7 @@
 ##  Выбор датасета
 
 Предсказание рыночной стоимости автомобилей с пробегом
-Был выбран датасет Used Car Price Prediction - [https://www.kaggle.com/datasets/therohithanand/used-car-price-prediction](https://www.kaggle.com/datasets/ayaz11/used-car-price-prediction/data)
+Был выбран датасет Used Car Price Prediction - https://www.kaggle.com/datasets/ayaz11/used-car-price-prediction/data
 
 ## Задачи:
 1. Загрузка и Разведочный анализ (EDA): загрузка данных, их очистка и группировка по категориальным признакам;
