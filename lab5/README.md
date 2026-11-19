@@ -8,4 +8,4 @@
 4. построен график, где видно engine_cc, make_year, fuel_type_Electric и mileage_kmpl увеличивают цену авто, а owner_count ее снижает
 5. сравнение метрик R2, они одинаковы кроме Lasso, тк он обнулял значения
 
-   Модель показала качество 0.8764, стоимость увеличивают engine_cc, make_year, fuel_type_Electric и mileage_kmpl и снижает owner_count, остальные признаки имеют очень слабое влияние.
+Модель показала качество 0.8764, стоимость увеличивают engine_cc, make_year, fuel_type_Electric и mileage_kmpl и снижает owner_count, остальные признаки имеют очень слабое влияние.
